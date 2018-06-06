@@ -2,6 +2,8 @@
 
 # How this script should behave:
 #
+#  just put in a line for testing git
+#
 # INPUT:   Paths to one or more fasta sequence files
 #
 # OUTPUT:  For each file, it should write a line with the number of sequences
